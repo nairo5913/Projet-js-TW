@@ -1,4 +1,4 @@
-# Projet-js-TW :shit:
+# :shit: Projet Javascript TW :shit:
 Projet n°2 de l'UE TW (Technologies du Web 1)
 
 ## Consigne
