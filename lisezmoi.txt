@@ -1,0 +1,9 @@
+# Mini-projet JavaScript 2018
+
+**Florian Provost**
+
+## Question
+
+Taille variable
+
+Afichage de score
