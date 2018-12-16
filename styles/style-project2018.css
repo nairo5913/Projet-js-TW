@@ -6,9 +6,9 @@ body {
   margin : auto;
 }
 
-#control, #terrain {
+#control, #terrain, #hall_fame{
   width : 400px;
-  margin : auto;  
+  margin : auto;
 }
 
 #terrain {
@@ -35,7 +35,7 @@ body {
   background-color: rgb(128,128,255);
   opacity : 0;
   transition-property : background-color, opacity;
-  transition-duration : 0.2s, 0.8s;  
+  transition-duration : 0.2s, 0.8s;
   transition-timing-function : ease-in, ease-out;
   transition-delay : 0s, 0.2s;
 }
@@ -45,7 +45,7 @@ body {
 }
 
 .target.on.hit {
-  background-color: rgba(80,80,80,1);  
+  background-color: rgba(80,80,80,1);
   opacity : 0;
   z-index : -1;
 }
@@ -56,11 +56,11 @@ body {
 }
 
 #remaining, #nbtargets {
-  display : inline-block;  
+  display : inline-block;
   padding : 0px 5px;
 }
 #remaining {
-  text-align : right;  
+  text-align : right;
   margin-right :20px;
   width : 30px;
   background-color: white;
@@ -73,10 +73,15 @@ body {
 #chrono {
   border : solid thin black;
   padding : 1px 5px;
-  background-color : white;  
+  background-color : white;
 }
 #chrono span {
   padding : 0px 1px;
   font-family : sans-serif;
 }
 
+table
+{
+  margin-top : 10px;
+  width: 100%;
+}
