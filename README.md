@@ -24,3 +24,5 @@ Projet n°2 de l'UE TW (Technologies du Web 1)
 
 - [ ] Problème d'animation à la création des cibles
 - [ ] Problème animation de suppression des cible lors du lancement d'une partie
+
+**Florian Provost**
